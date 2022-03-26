@@ -1,0 +1,28 @@
+.div_a{
+    background-color: #7B68EE;
+    width: 350px;
+    height: 350px;
+}
+
+.div_b{
+    background-color: #BA55D3;
+    width: 50%;
+    height: 50%;
+}
+.p-div_b{
+    color: rgb(138,43,226);
+    background-color:  rgb(75,0,130);
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    }
+.div_d{
+    background-color: rgb(151, 50, 151);
+    width: 30%;
+    height: 30vh;
+}
+.div_filho{
+    width: 70vw; 
+    height: 30%; 
+    background-color: rgb(139,0,139);
+}
