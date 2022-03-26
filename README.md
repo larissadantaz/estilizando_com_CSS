@@ -1,2 +1,2 @@
-# estilizando_com_CSS
-Exercícios para pôr em prática CSS inline, CSS interno e CSS externo.
+Estilizando com CSS
+Exercícios de Pesquisa e Inovação para pôr em prática CSS inline, CSS interno e CSS externo.
